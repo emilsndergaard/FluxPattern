@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf0d9b31-8e1d-4b8f-877c-f8ee201eb377": {
+      "ProjectGuid": "cf0d9b31-8e1d-4b8f-877c-f8ee201eb377",
+      "DisplayName": "FluxPattern_WPF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
